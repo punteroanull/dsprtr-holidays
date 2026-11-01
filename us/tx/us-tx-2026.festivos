@@ -1,0 +1,32 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "us-tx-2026",
+  "name": "Texas 2026",
+  "region": {"country": "US", "subdivision": "US-TX"},
+  "year": 2026,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2026-01-01", "name": "New Year's Day", "scope": "national"},
+    {"date": "2026-01-19", "name": "Martin Luther King Jr. Day", "scope": "national"},
+    {"date": "2026-02-16", "name": "Washington's Birthday", "scope": "national"},
+    {"date": "2026-03-02", "name": "Texas Independence Day", "scope": "regional"},
+    {"date": "2026-03-31", "name": "Cesar Chavez Day", "scope": "regional"},
+    {"date": "2026-04-03", "name": "Good Friday", "scope": "regional"},
+    {"date": "2026-04-21", "name": "San Jacinto Day", "scope": "regional"},
+    {"date": "2026-05-25", "name": "Memorial Day", "scope": "national"},
+    {"date": "2026-06-19", "name": "Juneteenth National Independence Day", "scope": "national"},
+    {"date": "2026-07-03", "name": "Independence Day (observed)", "scope": "national"},
+    {"date": "2026-07-04", "name": "Independence Day", "scope": "national"},
+    {"date": "2026-08-27", "name": "Lyndon Baines Johnson Day", "scope": "regional"},
+    {"date": "2026-09-07", "name": "Labor Day", "scope": "national"},
+    {"date": "2026-10-12", "name": "Columbus Day", "scope": "national"},
+    {"date": "2026-11-11", "name": "Veterans Day", "scope": "national"},
+    {"date": "2026-11-26", "name": "Thanksgiving Day", "scope": "national"},
+    {"date": "2026-11-27", "name": "Friday After Thanksgiving", "scope": "regional"},
+    {"date": "2026-12-24", "name": "Christmas Eve", "scope": "regional"},
+    {"date": "2026-12-25", "name": "Christmas Day", "scope": "national"},
+    {"date": "2026-12-26", "name": "Day After Christmas", "scope": "regional"}
+  ]
+}

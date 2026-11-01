@@ -1,0 +1,26 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "pt-02-2026",
+  "name": "Beja 2026",
+  "region": {"country": "PT", "subdivision": "PT-02"},
+  "year": 2026,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2026-01-01", "name": "Ano Novo", "scope": "national"},
+    {"date": "2026-04-03", "name": "Sexta-feira Santa", "scope": "national"},
+    {"date": "2026-04-05", "name": "Páscoa", "scope": "national"},
+    {"date": "2026-04-25", "name": "Dia da Liberdade", "scope": "national"},
+    {"date": "2026-05-01", "name": "Dia do Trabalhador", "scope": "national"},
+    {"date": "2026-05-14", "name": "Quinta-feira da Ascensão", "scope": "regional"},
+    {"date": "2026-06-04", "name": "Corpo de Deus", "scope": "national"},
+    {"date": "2026-06-10", "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas", "scope": "national"},
+    {"date": "2026-08-15", "name": "Assunção de Nossa Senhora", "scope": "national"},
+    {"date": "2026-10-05", "name": "Implantação da República", "scope": "national"},
+    {"date": "2026-11-01", "name": "Dia de Todos os Santos", "scope": "national"},
+    {"date": "2026-12-01", "name": "Restauração da Independência", "scope": "national"},
+    {"date": "2026-12-08", "name": "Imaculada Conceição", "scope": "national"},
+    {"date": "2026-12-25", "name": "Dia de Natal", "scope": "national"}
+  ]
+}

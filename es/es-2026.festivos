@@ -1,0 +1,20 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "es-2026",
+  "name": "España 2026 (solo nacionales)",
+  "region": {"country": "ES"},
+  "year": 2026,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2026-01-01", "name": "Año Nuevo", "scope": "national"},
+    {"date": "2026-01-06", "name": "Epifanía del Señor", "scope": "national"},
+    {"date": "2026-04-03", "name": "Viernes Santo", "scope": "national"},
+    {"date": "2026-05-01", "name": "Fiesta del Trabajo", "scope": "national"},
+    {"date": "2026-08-15", "name": "Asunción de la Virgen", "scope": "national"},
+    {"date": "2026-10-12", "name": "Fiesta Nacional de España", "scope": "national"},
+    {"date": "2026-12-08", "name": "Inmaculada Concepción", "scope": "national"},
+    {"date": "2026-12-25", "name": "Natividad del Señor", "scope": "national"}
+  ]
+}

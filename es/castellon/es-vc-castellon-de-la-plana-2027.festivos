@@ -1,0 +1,26 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "es-vc-castellon-de-la-plana-2027",
+  "name": "Castellón de la Plana 2027",
+  "region": {"country": "ES", "subdivision": "ES-VC", "locality": "Castellón de la Plana"},
+  "year": 2027,
+  "source": "https://castelloextra.com/castello/castello-ja-te-proposta-seus-festius-locals-2027-estes-son-dos-dates-triades_592678_102.html",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Año Nuevo", "scope": "national"},
+    {"date": "2027-01-06", "name": "Epifanía del Señor", "scope": "national"},
+    {"date": "2027-03-01", "name": "Lunes de la Magdalena", "scope": "local"},
+    {"date": "2027-03-19", "name": "San José", "scope": "regional"},
+    {"date": "2027-03-26", "name": "Viernes Santo", "scope": "national"},
+    {"date": "2027-03-29", "name": "Lunes de Pascua", "scope": "regional"},
+    {"date": "2027-05-01", "name": "Fiesta del Trabajo", "scope": "national"},
+    {"date": "2027-06-29", "name": "San Pedro", "scope": "local"},
+    {"date": "2027-10-09", "name": "Día de la Comunidad Valenciana", "scope": "regional"},
+    {"date": "2027-10-12", "name": "Fiesta Nacional de España", "scope": "national"},
+    {"date": "2027-11-01", "name": "Todos los Santos", "scope": "national"},
+    {"date": "2027-12-06", "name": "Día de la Constitución Española", "scope": "national"},
+    {"date": "2027-12-08", "name": "Inmaculada Concepción", "scope": "national"},
+    {"date": "2027-12-25", "name": "Natividad del Señor", "scope": "national"}
+  ]
+}

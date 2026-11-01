@@ -1,0 +1,32 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "us-nc-2027",
+  "name": "North Carolina 2027",
+  "region": {"country": "US", "subdivision": "US-NC"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2027-01-01", "name": "New Year's Day", "scope": "national"},
+    {"date": "2027-01-18", "name": "Martin Luther King Jr. Day", "scope": "national"},
+    {"date": "2027-02-15", "name": "Washington's Birthday", "scope": "national"},
+    {"date": "2027-03-26", "name": "Good Friday", "scope": "regional"},
+    {"date": "2027-05-31", "name": "Memorial Day", "scope": "national"},
+    {"date": "2027-06-18", "name": "Juneteenth National Independence Day (observed)", "scope": "national"},
+    {"date": "2027-06-19", "name": "Juneteenth National Independence Day", "scope": "national"},
+    {"date": "2027-07-04", "name": "Independence Day", "scope": "national"},
+    {"date": "2027-07-05", "name": "Independence Day (observed)", "scope": "national"},
+    {"date": "2027-09-06", "name": "Labor Day", "scope": "national"},
+    {"date": "2027-10-11", "name": "Columbus Day", "scope": "national"},
+    {"date": "2027-11-11", "name": "Veterans Day", "scope": "national"},
+    {"date": "2027-11-25", "name": "Thanksgiving Day", "scope": "national"},
+    {"date": "2027-11-26", "name": "Day After Thanksgiving", "scope": "regional"},
+    {"date": "2027-12-23", "name": "Christmas Eve (observed)", "scope": "regional"},
+    {"date": "2027-12-24", "name": "Christmas Day (observed)", "scope": "national"},
+    {"date": "2027-12-25", "name": "Christmas Day", "scope": "national"},
+    {"date": "2027-12-26", "name": "Day After Christmas", "scope": "regional"},
+    {"date": "2027-12-27", "name": "Day After Christmas (observed)", "scope": "regional"},
+    {"date": "2027-12-31", "name": "New Year's Day (observed)", "scope": "national"}
+  ]
+}

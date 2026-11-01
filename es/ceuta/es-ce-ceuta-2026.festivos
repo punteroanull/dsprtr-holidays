@@ -1,0 +1,26 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "es-ce-ceuta-2026",
+  "name": "Ceuta 2026",
+  "region": {"country": "ES", "subdivision": "ES-CE", "locality": "Ceuta"},
+  "year": 2026,
+  "source": "https://www.laboral-social.com/sites/laboral-social.com/files/fiestas-locales-ceuta-2026.pdf",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2026-01-01", "name": "Año Nuevo", "scope": "national"},
+    {"date": "2026-01-06", "name": "Epifanía del Señor", "scope": "national"},
+    {"date": "2026-03-20", "name": "Fiesta de Culminación del Ramadán (Eid al-Fitr)", "scope": "local"},
+    {"date": "2026-04-02", "name": "Jueves Santo", "scope": "regional"},
+    {"date": "2026-04-03", "name": "Viernes Santo", "scope": "national"},
+    {"date": "2026-05-01", "name": "Fiesta del Trabajo", "scope": "national"},
+    {"date": "2026-05-27", "name": "Fiesta del Sacrificio-Eidul Adha", "scope": "regional"},
+    {"date": "2026-06-13", "name": "San Antonio", "scope": "local"},
+    {"date": "2026-08-05", "name": "Nuestra Señora de África", "scope": "regional"},
+    {"date": "2026-08-15", "name": "Asunción de la Virgen", "scope": "national"},
+    {"date": "2026-09-02", "name": "Día de Ceuta", "scope": "regional"},
+    {"date": "2026-10-12", "name": "Fiesta Nacional de España", "scope": "national"},
+    {"date": "2026-12-08", "name": "Inmaculada Concepción", "scope": "national"},
+    {"date": "2026-12-25", "name": "Natividad del Señor", "scope": "national"}
+  ]
+}

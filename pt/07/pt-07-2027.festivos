@@ -1,0 +1,26 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "pt-07-2027",
+  "name": "Évora 2027",
+  "region": {"country": "PT", "subdivision": "PT-07"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Ano Novo", "scope": "national"},
+    {"date": "2027-03-26", "name": "Sexta-feira Santa", "scope": "national"},
+    {"date": "2027-03-28", "name": "Páscoa", "scope": "national"},
+    {"date": "2027-04-25", "name": "Dia da Liberdade", "scope": "national"},
+    {"date": "2027-05-01", "name": "Dia do Trabalhador", "scope": "national"},
+    {"date": "2027-05-27", "name": "Corpo de Deus", "scope": "national"},
+    {"date": "2027-06-10", "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas", "scope": "national"},
+    {"date": "2027-06-29", "name": "Dia de São Pedro", "scope": "regional"},
+    {"date": "2027-08-15", "name": "Assunção de Nossa Senhora", "scope": "national"},
+    {"date": "2027-10-05", "name": "Implantação da República", "scope": "national"},
+    {"date": "2027-11-01", "name": "Dia de Todos os Santos", "scope": "national"},
+    {"date": "2027-12-01", "name": "Restauração da Independência", "scope": "national"},
+    {"date": "2027-12-08", "name": "Imaculada Conceição", "scope": "national"},
+    {"date": "2027-12-25", "name": "Dia de Natal", "scope": "national"}
+  ]
+}

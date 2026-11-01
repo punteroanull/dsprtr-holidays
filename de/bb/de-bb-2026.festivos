@@ -1,0 +1,24 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "de-bb-2026",
+  "name": "Brandenburg 2026",
+  "region": {"country": "DE", "subdivision": "DE-BB"},
+  "year": 2026,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2026-01-01", "name": "Neujahr", "scope": "national"},
+    {"date": "2026-04-03", "name": "Karfreitag", "scope": "national"},
+    {"date": "2026-04-05", "name": "Ostersonntag", "scope": "regional"},
+    {"date": "2026-04-06", "name": "Ostermontag", "scope": "national"},
+    {"date": "2026-05-01", "name": "Erster Mai", "scope": "national"},
+    {"date": "2026-05-14", "name": "Christi Himmelfahrt", "scope": "national"},
+    {"date": "2026-05-24", "name": "Pfingstsonntag", "scope": "regional"},
+    {"date": "2026-05-25", "name": "Pfingstmontag", "scope": "national"},
+    {"date": "2026-10-03", "name": "Tag der Deutschen Einheit", "scope": "national"},
+    {"date": "2026-10-31", "name": "Reformationstag", "scope": "regional"},
+    {"date": "2026-12-25", "name": "Erster Weihnachtstag", "scope": "national"},
+    {"date": "2026-12-26", "name": "Zweiter Weihnachtstag", "scope": "national"}
+  ]
+}

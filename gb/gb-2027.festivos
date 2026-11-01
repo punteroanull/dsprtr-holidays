@@ -1,0 +1,20 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "gb-2027",
+  "name": "Reino Unido 2027",
+  "region": {"country": "GB"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2027-01-01", "name": "New Year's Day", "scope": "national"},
+    {"date": "2027-03-26", "name": "Good Friday", "scope": "national"},
+    {"date": "2027-05-03", "name": "May Day", "scope": "national"},
+    {"date": "2027-05-31", "name": "Spring Bank Holiday", "scope": "national"},
+    {"date": "2027-12-25", "name": "Christmas Day", "scope": "national"},
+    {"date": "2027-12-26", "name": "Boxing Day", "scope": "national"},
+    {"date": "2027-12-27", "name": "Christmas Day (observed)", "scope": "national"},
+    {"date": "2027-12-28", "name": "Boxing Day (observed)", "scope": "national"}
+  ]
+}

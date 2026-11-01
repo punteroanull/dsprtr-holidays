@@ -1,0 +1,24 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "fr-973-2027",
+  "name": "GY 2027",
+  "region": {"country": "FR", "subdivision": "FR-973"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Jour de l'an", "scope": "national"},
+    {"date": "2027-03-29", "name": "Lundi de Pâques", "scope": "national"},
+    {"date": "2027-05-01", "name": "Fête du Travail", "scope": "national"},
+    {"date": "2027-05-06", "name": "Ascension", "scope": "national"},
+    {"date": "2027-05-08", "name": "Fête de la Victoire", "scope": "national"},
+    {"date": "2027-05-17", "name": "Lundi de Pentecôte", "scope": "national"},
+    {"date": "2027-06-10", "name": "Abolition de l'esclavage", "scope": "regional"},
+    {"date": "2027-07-14", "name": "Fête nationale", "scope": "national"},
+    {"date": "2027-08-15", "name": "Assomption", "scope": "national"},
+    {"date": "2027-11-01", "name": "Toussaint", "scope": "national"},
+    {"date": "2027-11-11", "name": "Armistice", "scope": "national"},
+    {"date": "2027-12-25", "name": "Noël", "scope": "national"}
+  ]
+}

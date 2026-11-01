@@ -1,0 +1,29 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "ar-c-2027",
+  "name": "Ciudad Autónoma de Buenos Aires 2027",
+  "region": {"country": "AR", "subdivision": "AR-C"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-01",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Año Nuevo", "scope": "national"},
+    {"date": "2027-02-08", "name": "Lunes de Carnaval", "scope": "national"},
+    {"date": "2027-02-09", "name": "Martes de Carnaval", "scope": "national"},
+    {"date": "2027-03-24", "name": "Día Nacional de la Memoria por la Verdad y la Justicia", "scope": "national"},
+    {"date": "2027-03-25", "name": "Jueves Santo", "scope": "national"},
+    {"date": "2027-03-26", "name": "Viernes Santo", "scope": "national"},
+    {"date": "2027-04-02", "name": "Día del Veterano y de los Caidos en la Guerra de Malvinas", "scope": "national"},
+    {"date": "2027-05-01", "name": "Día del Trabajo", "scope": "national"},
+    {"date": "2027-05-25", "name": "Día de la Revolución de Mayo", "scope": "national"},
+    {"date": "2027-06-20", "name": "Paso a la Inmortalidad del General Don Manuel Belgrano", "scope": "national"},
+    {"date": "2027-06-21", "name": "Paso a la Inmortalidad del General Don Martín Miguel de Güemes", "scope": "national"},
+    {"date": "2027-07-09", "name": "Día de la Independencia", "scope": "national"},
+    {"date": "2027-08-16", "name": "Paso a la Inmortalidad del General Don José de San Martín", "scope": "national"},
+    {"date": "2027-10-11", "name": "Día del Respeto a la Diversidad Cultural", "scope": "national"},
+    {"date": "2027-11-20", "name": "Día de la Soberanía Nacional", "scope": "national"},
+    {"date": "2027-12-08", "name": "Inmaculada Concepción de María", "scope": "national"},
+    {"date": "2027-12-25", "name": "Navidad", "scope": "national"}
+  ]
+}
