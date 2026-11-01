@@ -1,8 +1,7 @@
 # dsprtr-holidays
 
-Calendarios de festivos para [dsprtr](https://github.com/punteroanull/dsprtr), generados con
-`tools/holidays-generator` de ese repositorio. **No edites estos ficheros a mano**: se
-sobrescriben en cada generación.
+Calendarios de festivos para [dsprtr](https://github.com/punteroanull/dsprtr).
+**No edites estos ficheros a mano**: se sobrescriben en cada generación.
 
 Catálogo para la app: `https://raw.githubusercontent.com/punteroanull/dsprtr-holidays/main/index.json`
 
