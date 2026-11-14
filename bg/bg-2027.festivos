@@ -1,0 +1,28 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "bg-2027",
+  "name": "Bulgaria 2027",
+  "region": {"country": "BG"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Нова година", "scope": "national"},
+    {"date": "2027-03-03", "name": "Ден на Освобождението на България от османско иго", "scope": "national"},
+    {"date": "2027-04-30", "name": "Велики петък", "scope": "national"},
+    {"date": "2027-05-01", "name": "Велика събота", "scope": "national"},
+    {"date": "2027-05-02", "name": "Великден", "scope": "national"},
+    {"date": "2027-05-03", "name": "Великден", "scope": "national"},
+    {"date": "2027-05-04", "name": "Ден на труда и на международната работническа солидарност (почивен ден)", "scope": "national"},
+    {"date": "2027-05-06", "name": "Гергьовден, Ден на храбростта и Българската армия", "scope": "national"},
+    {"date": "2027-05-24", "name": "Ден на светите братя Кирил и Методий, на българската азбука, просвета и култура и на славянската книжовност", "scope": "national"},
+    {"date": "2027-09-06", "name": "Ден на Съединението", "scope": "national"},
+    {"date": "2027-09-22", "name": "Ден на Независимостта на България", "scope": "national"},
+    {"date": "2027-12-24", "name": "Бъдни вечер", "scope": "national"},
+    {"date": "2027-12-25", "name": "Рождество Христово", "scope": "national"},
+    {"date": "2027-12-26", "name": "Рождество Христово", "scope": "national"},
+    {"date": "2027-12-27", "name": "Рождество Христово (почивен ден)", "scope": "national"},
+    {"date": "2027-12-28", "name": "Рождество Христово (почивен ден)", "scope": "national"}
+  ]
+}

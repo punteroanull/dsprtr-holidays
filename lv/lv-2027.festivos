@@ -1,0 +1,27 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "lv-2027",
+  "name": "Letonia 2027",
+  "region": {"country": "LV"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Jaungada diena", "scope": "national"},
+    {"date": "2027-03-26", "name": "Lielā Piektdiena", "scope": "national"},
+    {"date": "2027-03-28", "name": "Pirmās Lieldienas", "scope": "national"},
+    {"date": "2027-03-29", "name": "Otrās Lieldienas", "scope": "national"},
+    {"date": "2027-05-01", "name": "Darba svētki", "scope": "national"},
+    {"date": "2027-05-04", "name": "Latvijas Republikas Neatkarības atjaunošanas diena", "scope": "national"},
+    {"date": "2027-05-09", "name": "Mātes diena", "scope": "national"},
+    {"date": "2027-05-16", "name": "Vasarsvētki", "scope": "national"},
+    {"date": "2027-06-23", "name": "Līgo diena", "scope": "national"},
+    {"date": "2027-06-24", "name": "Jāņu diena", "scope": "national"},
+    {"date": "2027-11-18", "name": "Latvijas Republikas Proklamēšanas diena", "scope": "national"},
+    {"date": "2027-12-24", "name": "Ziemassvētku vakars", "scope": "national"},
+    {"date": "2027-12-25", "name": "Pirmie Ziemassvētki", "scope": "national"},
+    {"date": "2027-12-26", "name": "Otrie Ziemassvētki", "scope": "national"},
+    {"date": "2027-12-31", "name": "Vecgada diena", "scope": "national"}
+  ]
+}

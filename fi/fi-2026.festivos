@@ -1,0 +1,27 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "fi-2026",
+  "name": "Finlandia 2026",
+  "region": {"country": "FI"},
+  "year": 2026,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2026-01-01", "name": "Uudenvuodenpäivä", "scope": "national"},
+    {"date": "2026-01-06", "name": "Loppiainen", "scope": "national"},
+    {"date": "2026-04-03", "name": "Pitkäperjantai", "scope": "national"},
+    {"date": "2026-04-05", "name": "Pääsiäispäivä", "scope": "national"},
+    {"date": "2026-04-06", "name": "Toinen pääsiäispäivä", "scope": "national"},
+    {"date": "2026-05-01", "name": "Vappu", "scope": "national"},
+    {"date": "2026-05-14", "name": "Helatorstai", "scope": "national"},
+    {"date": "2026-05-24", "name": "Helluntaipäivä", "scope": "national"},
+    {"date": "2026-06-19", "name": "Juhannusaatto", "scope": "national"},
+    {"date": "2026-06-20", "name": "Juhannuspäivä", "scope": "national"},
+    {"date": "2026-10-31", "name": "Pyhäinpäivä", "scope": "national"},
+    {"date": "2026-12-06", "name": "Itsenäisyyspäivä", "scope": "national"},
+    {"date": "2026-12-24", "name": "Jouluaatto", "scope": "national"},
+    {"date": "2026-12-25", "name": "Joulupäivä", "scope": "national"},
+    {"date": "2026-12-26", "name": "Tapaninpäivä", "scope": "national"}
+  ]
+}

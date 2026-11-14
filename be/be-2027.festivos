@@ -1,0 +1,24 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "be-2027",
+  "name": "Bélgica 2027",
+  "region": {"country": "BE"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Nieuwjaar", "scope": "national"},
+    {"date": "2027-03-28", "name": "Pasen", "scope": "national"},
+    {"date": "2027-03-29", "name": "Paasmaandag", "scope": "national"},
+    {"date": "2027-05-01", "name": "Dag van de Arbeid", "scope": "national"},
+    {"date": "2027-05-06", "name": "O. L. H. Hemelvaart", "scope": "national"},
+    {"date": "2027-05-16", "name": "Pinksteren", "scope": "national"},
+    {"date": "2027-05-17", "name": "Pinkstermaandag", "scope": "national"},
+    {"date": "2027-07-21", "name": "Nationale feestdag", "scope": "national"},
+    {"date": "2027-08-15", "name": "O. L. V. Hemelvaart", "scope": "national"},
+    {"date": "2027-11-01", "name": "Allerheiligen", "scope": "national"},
+    {"date": "2027-11-11", "name": "Wapenstilstand", "scope": "national"},
+    {"date": "2027-12-25", "name": "Kerstmis", "scope": "national"}
+  ]
+}

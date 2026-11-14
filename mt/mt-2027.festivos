@@ -1,0 +1,26 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "mt-2027",
+  "name": "Malta 2027",
+  "region": {"country": "MT"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "L-Ewwel tas-Sena", "scope": "national"},
+    {"date": "2027-02-10", "name": "Il-Festa tan-Nawfraġju ta' San Pawl", "scope": "national"},
+    {"date": "2027-03-19", "name": "Il-Festa ta' San Ġużepp", "scope": "national"},
+    {"date": "2027-03-26", "name": "Il-Ġimgħa l-Kbira", "scope": "national"},
+    {"date": "2027-03-31", "name": "Jum il-Ħelsien", "scope": "national"},
+    {"date": "2027-05-01", "name": "Jum il-Ħaddiem", "scope": "national"},
+    {"date": "2027-06-07", "name": "Sette Giugno", "scope": "national"},
+    {"date": "2027-06-29", "name": "Il-Festa ta' San Pietru u San Pawl", "scope": "national"},
+    {"date": "2027-08-15", "name": "Il-Festa ta' Santa Marija", "scope": "national"},
+    {"date": "2027-09-08", "name": "Jum il-Vitorja", "scope": "national"},
+    {"date": "2027-09-21", "name": "Jum l-Indipendenza", "scope": "national"},
+    {"date": "2027-12-08", "name": "Il-Festa tal-Immakulata Kunċizzjoni", "scope": "national"},
+    {"date": "2027-12-13", "name": "Jum ir-Repubblika", "scope": "national"},
+    {"date": "2027-12-25", "name": "Il-Milied", "scope": "national"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "lu-2026",
+  "name": "Luxemburgo 2026",
+  "region": {"country": "LU"},
+  "year": 2026,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2026-01-01", "name": "Neijoerschdag", "scope": "national"},
+    {"date": "2026-04-06", "name": "Ouschterméindeg", "scope": "national"},
+    {"date": "2026-05-01", "name": "Dag vun der Aarbecht", "scope": "national"},
+    {"date": "2026-05-09", "name": "Europadag", "scope": "national"},
+    {"date": "2026-05-14", "name": "Christi Himmelfaart", "scope": "national"},
+    {"date": "2026-05-25", "name": "Péngschtméindeg", "scope": "national"},
+    {"date": "2026-06-23", "name": "Nationalfeierdag", "scope": "national"},
+    {"date": "2026-08-15", "name": "Léiffrawëschdag", "scope": "national"},
+    {"date": "2026-11-01", "name": "Allerhellgen", "scope": "national"},
+    {"date": "2026-12-25", "name": "Chrëschtdag", "scope": "national"},
+    {"date": "2026-12-26", "name": "Stiefesdag", "scope": "national"}
+  ]
+}

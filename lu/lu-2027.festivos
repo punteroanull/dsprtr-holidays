@@ -1,0 +1,23 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "lu-2027",
+  "name": "Luxemburgo 2027",
+  "region": {"country": "LU"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Neijoerschdag", "scope": "national"},
+    {"date": "2027-03-29", "name": "Ouschterméindeg", "scope": "national"},
+    {"date": "2027-05-01", "name": "Dag vun der Aarbecht", "scope": "national"},
+    {"date": "2027-05-06", "name": "Christi Himmelfaart", "scope": "national"},
+    {"date": "2027-05-09", "name": "Europadag", "scope": "national"},
+    {"date": "2027-05-17", "name": "Péngschtméindeg", "scope": "national"},
+    {"date": "2027-06-23", "name": "Nationalfeierdag", "scope": "national"},
+    {"date": "2027-08-15", "name": "Léiffrawëschdag", "scope": "national"},
+    {"date": "2027-11-01", "name": "Allerhellgen", "scope": "national"},
+    {"date": "2027-12-25", "name": "Chrëschtdag", "scope": "national"},
+    {"date": "2027-12-26", "name": "Stiefesdag", "scope": "national"}
+  ]
+}

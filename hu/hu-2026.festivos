@@ -1,0 +1,28 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "hu-2026",
+  "name": "Hungría 2026",
+  "region": {"country": "HU"},
+  "year": 2026,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2026-01-01", "name": "Újév", "scope": "national"},
+    {"date": "2026-01-02", "name": "Pihenőnap (2026. 01. 10.-től helyettesítve)", "scope": "national"},
+    {"date": "2026-03-15", "name": "Nemzeti ünnep", "scope": "national"},
+    {"date": "2026-04-03", "name": "Nagypéntek", "scope": "national"},
+    {"date": "2026-04-05", "name": "Húsvét", "scope": "national"},
+    {"date": "2026-04-06", "name": "Húsvét Hétfő", "scope": "national"},
+    {"date": "2026-05-01", "name": "A Munka ünnepe", "scope": "national"},
+    {"date": "2026-05-24", "name": "Pünkösd", "scope": "national"},
+    {"date": "2026-05-25", "name": "Pünkösdhétfő", "scope": "national"},
+    {"date": "2026-08-20", "name": "Az államalapítás ünnepe", "scope": "national"},
+    {"date": "2026-08-21", "name": "Pihenőnap (2026. 08. 08.-től helyettesítve)", "scope": "national"},
+    {"date": "2026-10-23", "name": "Nemzeti ünnep", "scope": "national"},
+    {"date": "2026-11-01", "name": "Mindenszentek", "scope": "national"},
+    {"date": "2026-12-24", "name": "Pihenőnap (2026. 12. 12.-től helyettesítve)", "scope": "national"},
+    {"date": "2026-12-25", "name": "Karácsony", "scope": "national"},
+    {"date": "2026-12-26", "name": "Karácsony másnapja", "scope": "national"}
+  ]
+}

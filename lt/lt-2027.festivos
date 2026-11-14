@@ -1,0 +1,28 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "lt-2027",
+  "name": "Lituania 2027",
+  "region": {"country": "LT"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Naujųjų metų diena", "scope": "national"},
+    {"date": "2027-02-16", "name": "Lietuvos valstybės atkūrimo diena", "scope": "national"},
+    {"date": "2027-03-11", "name": "Lietuvos nepriklausomybės atkūrimo diena", "scope": "national"},
+    {"date": "2027-03-28", "name": "Šv. Velykos", "scope": "national"},
+    {"date": "2027-03-29", "name": "Antroji šv. Velykų diena", "scope": "national"},
+    {"date": "2027-05-01", "name": "Tarptautinė darbo diena", "scope": "national"},
+    {"date": "2027-05-02", "name": "Motinos diena", "scope": "national"},
+    {"date": "2027-06-06", "name": "Tėvo diena", "scope": "national"},
+    {"date": "2027-06-24", "name": "Rasos ir Joninių diena", "scope": "national"},
+    {"date": "2027-07-06", "name": "Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) ir Tautiškos giesmės diena", "scope": "national"},
+    {"date": "2027-08-15", "name": "Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)", "scope": "national"},
+    {"date": "2027-11-01", "name": "Visų Šventųjų diena", "scope": "national"},
+    {"date": "2027-11-02", "name": "Mirusiųjų atminimo (Vėlinių) diena", "scope": "national"},
+    {"date": "2027-12-24", "name": "Kūčių diena", "scope": "national"},
+    {"date": "2027-12-25", "name": "Šv. Kalėdų pirma diena", "scope": "national"},
+    {"date": "2027-12-26", "name": "Šv. Kalėdų antra diena", "scope": "national"}
+  ]
+}

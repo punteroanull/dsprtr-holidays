@@ -1,0 +1,25 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "cz-2027",
+  "name": "Chequia 2027",
+  "region": {"country": "CZ"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Den obnovy samostatného českého státu", "scope": "national"},
+    {"date": "2027-03-26", "name": "Velký pátek", "scope": "national"},
+    {"date": "2027-03-29", "name": "Velikonoční pondělí", "scope": "national"},
+    {"date": "2027-05-01", "name": "Svátek práce", "scope": "national"},
+    {"date": "2027-05-08", "name": "Den vítězství", "scope": "national"},
+    {"date": "2027-07-05", "name": "Den slovanských věrozvěstů Cyrila a Metoděje", "scope": "national"},
+    {"date": "2027-07-06", "name": "Den upálení mistra Jana Husa", "scope": "national"},
+    {"date": "2027-09-28", "name": "Den české státnosti", "scope": "national"},
+    {"date": "2027-10-28", "name": "Den vzniku samostatného československého státu", "scope": "national"},
+    {"date": "2027-11-17", "name": "Den boje za svobodu a demokracii a Mezinárodní den studentstva", "scope": "national"},
+    {"date": "2027-12-24", "name": "Štědrý den", "scope": "national"},
+    {"date": "2027-12-25", "name": "1. svátek vánoční", "scope": "national"},
+    {"date": "2027-12-26", "name": "2. svátek vánoční", "scope": "national"}
+  ]
+}

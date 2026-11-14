@@ -1,0 +1,24 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "be-2026",
+  "name": "Bélgica 2026",
+  "region": {"country": "BE"},
+  "year": 2026,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2026-01-01", "name": "Nieuwjaar", "scope": "national"},
+    {"date": "2026-04-05", "name": "Pasen", "scope": "national"},
+    {"date": "2026-04-06", "name": "Paasmaandag", "scope": "national"},
+    {"date": "2026-05-01", "name": "Dag van de Arbeid", "scope": "national"},
+    {"date": "2026-05-14", "name": "O. L. H. Hemelvaart", "scope": "national"},
+    {"date": "2026-05-24", "name": "Pinksteren", "scope": "national"},
+    {"date": "2026-05-25", "name": "Pinkstermaandag", "scope": "national"},
+    {"date": "2026-07-21", "name": "Nationale feestdag", "scope": "national"},
+    {"date": "2026-08-15", "name": "O. L. V. Hemelvaart", "scope": "national"},
+    {"date": "2026-11-01", "name": "Allerheiligen", "scope": "national"},
+    {"date": "2026-11-11", "name": "Wapenstilstand", "scope": "national"},
+    {"date": "2026-12-25", "name": "Kerstmis", "scope": "national"}
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "hu-2027",
+  "name": "Hungría 2027",
+  "region": {"country": "HU"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "Újév", "scope": "national"},
+    {"date": "2027-03-15", "name": "Nemzeti ünnep", "scope": "national"},
+    {"date": "2027-03-26", "name": "Nagypéntek", "scope": "national"},
+    {"date": "2027-03-28", "name": "Húsvét", "scope": "national"},
+    {"date": "2027-03-29", "name": "Húsvét Hétfő", "scope": "national"},
+    {"date": "2027-05-01", "name": "A Munka ünnepe", "scope": "national"},
+    {"date": "2027-05-16", "name": "Pünkösd", "scope": "national"},
+    {"date": "2027-05-17", "name": "Pünkösdhétfő", "scope": "national"},
+    {"date": "2027-08-20", "name": "Az államalapítás ünnepe", "scope": "national"},
+    {"date": "2027-10-23", "name": "Nemzeti ünnep", "scope": "national"},
+    {"date": "2027-11-01", "name": "Mindenszentek", "scope": "national"},
+    {"date": "2027-12-25", "name": "Karácsony", "scope": "national"},
+    {"date": "2027-12-26", "name": "Karácsony másnapja", "scope": "national"}
+  ]
+}

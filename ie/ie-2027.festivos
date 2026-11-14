@@ -1,0 +1,22 @@
+{
+  "format": "dsprtr.holidays",
+  "version": 1,
+  "id": "ie-2027",
+  "name": "Irlanda 2027",
+  "region": {"country": "IE"},
+  "year": 2027,
+  "source": "https://github.com/vacanza/holidays",
+  "updated": "2026-11-14",
+  "holidays": [
+    {"date": "2027-01-01", "name": "New Year's Day", "scope": "national"},
+    {"date": "2027-02-01", "name": "Saint Brigid's Day", "scope": "national"},
+    {"date": "2027-03-17", "name": "Saint Patrick's Day", "scope": "national"},
+    {"date": "2027-03-29", "name": "Easter Monday", "scope": "national"},
+    {"date": "2027-05-03", "name": "May Bank Holiday", "scope": "national"},
+    {"date": "2027-06-07", "name": "June Bank Holiday", "scope": "national"},
+    {"date": "2027-08-02", "name": "August Bank Holiday", "scope": "national"},
+    {"date": "2027-10-25", "name": "October Bank Holiday", "scope": "national"},
+    {"date": "2027-12-25", "name": "Christmas Day", "scope": "national"},
+    {"date": "2027-12-26", "name": "Saint Stephen's Day", "scope": "national"}
+  ]
+}
